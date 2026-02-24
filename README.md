@@ -1,7 +1,7 @@
 # 💬 TCP Chat Application - C Socket Programming
 
 
-Ce projet a été réalisé dans le cadre du module **4TIN807U Réseaux et Protocoles** (TD 6) à l'**Université de Bordeaux**. 
+Ce projet a été réalisé dans le cadre du module **Réseaux et Protocoles** de l'**Université de Bordeaux**. 
 L'objectif est de concevoir une application de chat multi-utilisateurs en langage C, utilisant le protocole **TCP** pour garantir une communication fiable.
 
 ---
